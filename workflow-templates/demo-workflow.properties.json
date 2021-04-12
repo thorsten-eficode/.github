@@ -1,0 +1,14 @@
+{
+    "name": "Demo Workflow Template",
+    "description": "Just a small demo workflow (POC)",
+    "iconName": "demo-workflow",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "requirements.txt$",
+        "Dockerfile$",
+        ".*\\.md$",
+        ".*\\.py$"
+    ]
+}
